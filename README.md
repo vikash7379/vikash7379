@@ -45,7 +45,7 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 <br/>
 
 
-[![Puneet's github activity graph](https://activity-graph.herokuapp.com/graph?username=PuneetChaubey&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vikash's github activity graph](https://activity-graph.herokuapp.com/graph?username=vikash7379&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <br/>
