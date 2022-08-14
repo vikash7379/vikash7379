@@ -45,7 +45,7 @@ I'm a passionate Full Stack Developer from India. :)
 
 ## ✨ Top Languages Card
 
-<a href="https://github.com/vikash7379/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash7379&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/vikash7379/github-readme-stats"><img alt="vikash chaurasia's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash7379&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
 <br/>
@@ -58,4 +58,11 @@ I'm a passionate Full Stack Developer from India. :)
 <br/>
 <br/>
 
+   ## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/vikash-chaurasia/"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin-circled--v1.png"/></a>
+<a href = "https://twitter.com/@jaichaurasia7"><img src="https://img.icons8.com/ios-glyphs/60/000000/twitter--v1.png"/></a>
+<a href = "https://www.instagram.com/vikash_7379/"><img src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v1.png"/></a>
+</p>
 
