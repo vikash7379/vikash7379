@@ -45,7 +45,7 @@ I'm a passionate Frontend Developer from India. :)
 
 ## ✨ Top Languages Card
 
-<a href="https://github.com/vikash7379/github-readme-stats"><img alt="vikash chaurasia's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash7379&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/vikash7379/github-readme-stats"><img alt="vikash Chaurasia's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash7379&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
 <br/>
