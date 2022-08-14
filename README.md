@@ -1,13 +1,13 @@
 ### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vikash Chaurasia</h1>
 
-<h1 align="center"><a href="#"><img width="450" height="265" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/chill%20scene.gif"/</a></h1>
+
 
    
    
    
 ## 🙋‍♂️ About Me
-
-I'm a passionate Full Stack Developer from India. :)
+<img align="right" width="320" height="205" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/chill%20scene.gif"/>
+I'm a passionate Frontend Developer from India. :)
 
 - 📫 How to reach me **jaichaurasia90@gmail.com**
    
@@ -64,8 +64,5 @@ I'm a passionate Full Stack Developer from India. :)
 <a href = "https://www.linkedin.com/in/vikash-chaurasia/"><img width="40px" src="https://img.icons8.com/ios-filled/50/000000/linkedin-circled--v1.png"/></a>
 <a href = "https://twitter.com/@jaichaurasia7"><img width="40px" src="https://img.icons8.com/ios-glyphs/60/000000/twitter--v1.png"/></a>
 <a href = "https://www.instagram.com/vikash_7379/"><img width="40px" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v1.png"/></a>
-   <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=vikash7379">
-</a>
 </p>
 
