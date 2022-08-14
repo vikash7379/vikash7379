@@ -1,6 +1,6 @@
-### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Puneet Chaubey</h1>
+### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vikash Chaurasia</h1>
 
-<h1 align="center"><a href="#"><img width="200" height="200" src="https://cutt.ly/0XpgMj1"/></a></h1>
+<h1 align="center"><a href="#"><img width="200" height="200" src="https://cutt.ly/0XpgMj1"></a></h1>
 
 ## 🙋‍♂️ About Me
 
