@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vikash Chaurasia</h1>
 
-<h1 align="center"><a href="#"><img width="200" height="200" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/chill%20scene.gif"/</a></h1>
+<h1 align="center"><a href="#"><img width="400" height="400" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/chill%20scene.gif"/</a></h1>
 
 ## 🙋‍♂️ About Me
 
