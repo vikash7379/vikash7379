@@ -61,8 +61,8 @@ I'm a passionate Full Stack Developer from India. :)
    ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/vikash-chaurasia/"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin-circled--v1.png"/></a>
-<a href = "https://twitter.com/@jaichaurasia7"><img src="https://img.icons8.com/ios-glyphs/60/000000/twitter--v1.png"/></a>
-<a href = "https://www.instagram.com/vikash_7379/"><img src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v1.png"/></a>
+<a href = "https://www.linkedin.com/in/vikash-chaurasia/"><img width="40px" src="https://img.icons8.com/ios-filled/50/000000/linkedin-circled--v1.png"/></a>
+<a href = "https://twitter.com/@jaichaurasia7"><img width="40px" src="https://img.icons8.com/ios-glyphs/60/000000/twitter--v1.png"/></a>
+<a href = "https://www.instagram.com/vikash_7379/"><img width="40px" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v1.png"/></a>
 </p>
 
