@@ -12,8 +12,8 @@ I'm a passionate Full Stack Developer from India. :)
 
 - ⚡ Fun fact **I like Travelling and Music.**
 
-- 💬 Have a look at my [portfolio](https://vikashportfolio.w3spaces.com/index.html).
-## 🚀 Languages and Tools:
+- 💬 Have a look at my [My Portfolio](https://vikashportfolio.w3spaces.com/index.html).
+## 🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 <p align="left"> 
    
