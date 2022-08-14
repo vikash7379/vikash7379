@@ -64,5 +64,8 @@ I'm a passionate Full Stack Developer from India. :)
 <a href = "https://www.linkedin.com/in/vikash-chaurasia/"><img width="40px" src="https://img.icons8.com/ios-filled/50/000000/linkedin-circled--v1.png"/></a>
 <a href = "https://twitter.com/@jaichaurasia7"><img width="40px" src="https://img.icons8.com/ios-glyphs/60/000000/twitter--v1.png"/></a>
 <a href = "https://www.instagram.com/vikash_7379/"><img width="40px" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v1.png"/></a>
+   <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=vikash7379">
+</a>
 </p>
 
