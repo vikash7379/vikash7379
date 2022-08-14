@@ -32,6 +32,7 @@ I'm a passionate Full Stack Developer from India. :)
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://jquery.com/" target="_blank"> <img width="40px" src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/> </a> 
    <a href="https://wordpress.org/" target="_blank">  <img width="40px" src="https://img.icons8.com/ios-glyphs/60/000000/wordpress--v1.png"/>   </a>  
+   <a href="https://www.docker.com/" target="_blank">  <img width="40px" src="https://img.icons8.com/fluency/48/000000/docker.png"/>  </a> 
 </p>
    
 
@@ -40,27 +41,21 @@ I'm a passionate Full Stack Developer from India. :)
 
 ## 📊 My Github Stats
 
-  [![Puneet GitHub stats](https://github-readme-stats.vercel.app/api?username=PuneetChaubey&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Vikash GitHub stats](https://github-readme-stats.vercel.app/api?username=vikash7379&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✨ Top Languages Card
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PuneetChaubey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikash7379&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br/>
 <br/>
 
 
-[![Puneet's github activity graph](https://activity-graph.herokuapp.com/graph?username=PuneetChaubey&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vikash's github activity graph](https://activity-graph.herokuapp.com/graph?username=vikash7379&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <br/>
 <br/>
 
 
-
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
