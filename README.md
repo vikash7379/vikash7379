@@ -1,16 +1,18 @@
 ### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vikash Chaurasia</h1>
 
-<h1 align="center"><a href="#"><img width="480" height="365" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/chill%20scene.gif"/</a></h1>
+<h1 align="center"><a href="#"><img width="450" height="265" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/chill%20scene.gif"/</a></h1>
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate Full Stack Web And App Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
+I'm a passionate Full Stack Developer from India. :)
 
-- 📫 How to reach me **puneeteklavya@gmail.com**
+- 📫 How to reach me **jaichaurasia90@gmail.com**
+   
+- 🌱 I’m currently learning **React and UI/UX.**
 
-- ⚡ Fun fact **I like cooking and traveling very often.**
+- ⚡ Fun fact **I like Travelling and Music.**
 
-- 💬 Have a look at my [portfolio](https://puneetchaubey-portfolio.netlify.app/).
+- 💬 Have a look at my [portfolio](https://vikashportfolio.w3spaces.com/index.html).
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
