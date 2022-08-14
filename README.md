@@ -14,7 +14,7 @@ I'm a passionate Frontend Developer from India. :)
 - 🌱 I’m currently learning **React and UI/UX.**
 
 - ⚡ Fun fact **I like Travelling and Music.**
-- 💬 Have a look at my [My Portfolio](https://vikashportfolio.w3spaces.com/index.html).
+- 💬 Have a look at  [My Portfolio](https://vikashportfolio.w3spaces.com/index.html).
    
    
    
