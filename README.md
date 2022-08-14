@@ -45,7 +45,7 @@ I'm a passionate Full Stack Developer from India. :)
 
 ## ✨ Top Languages Card
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikash7379&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=react&hide_border=true&bg_color=0D1117)
+<a href="https://github.com/vikash7379/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash7379&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
 <br/>
