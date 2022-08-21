@@ -56,7 +56,6 @@ I'm a passionate Frontend Developer from India. :)
 
 
 <br/>
-<br/>
 
    ## Connect with me:
 <p align="left">
