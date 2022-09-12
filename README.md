@@ -7,7 +7,7 @@
    
 ## 🙋‍♂️ About Me
 <img align="right" width="320" height="205" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/chill%20scene.gif"/>
-I'm a passionate Frontend Developer from India. :)
+I'm a passionate Frontend Developer from Delhi. :)
 
 - 📫 How to reach me **jaichaurasia90@gmail.com**
    
