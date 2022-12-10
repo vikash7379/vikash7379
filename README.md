@@ -1,8 +1,4 @@
 ### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vikash Chaurasia</h1>
-
-
-
-   
    
    
 ## 🙋‍♂️ About Me
@@ -58,6 +54,7 @@ I'm a passionate Frontend Developer from Delhi. :)
 
 <br/>
 
+![Visitor Count](https://profile-counter.glitch.me/vikash7379/count.svg)
    ## Connect with me:
 <p align="left">
 
