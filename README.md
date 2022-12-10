@@ -18,19 +18,19 @@ I'm a passionate Frontend Developer from Delhi. :)
 ## 🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 <p align="left"> 
-      <img width ='42px' src="https://img.icons8.com/color/48/null/nextjs.png"/>
-    <a href="https://reactjs.org/" target="_blank"> <img width ='40px' src                ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  <img width ='38px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img width ='40px' src                ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"><img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img  width ='40px' src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img  width ='40px' src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40/>       </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img  width ='40px' src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://jquery.com/" target="_blank"> <img width="40px" src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/> </a> 
-   <a href="https://wordpress.org/" target="_blank">  <img width="40px" src="https://img.icons8.com/ios-glyphs/60/000000/wordpress--v1.png"/>   </a>  
-   <a href="https://www.docker.com/" target="_blank">  <img width="40px" src="https://img.icons8.com/fluency/48/000000/docker.png"/>  </a> 
+      <img title="Next.Js" width ='42px' src="https://img.icons8.com/color/48/null/nextjs.png"/>
+    <a href="https://reactjs.org/" target="_blank"> <img title="React Js" width ='40px' src                ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  <img title="java script" width ='38px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img title="Tailwind css" width ='40px' src                ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img title="CSS" width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"><img title="HTML" width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img title="Bootstrap"  width ='40px' src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img title="Python" width ='40px' src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40/>       </a>   
+    <a href="https://git-scm.com/" target="_blank"> <img title="Git" width ='40px' src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://jquery.com/" target="_blank"> <img title="Jquery" width="40px" src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/> </a> 
+   <a href="https://wordpress.org/" target="_blank">  <img title="Wordpress" width="40px" src="https://img.icons8.com/ios-glyphs/60/000000/wordpress--v1.png"/>   </a>  
+   <a href="https://www.docker.com/" target="_blank">  <img title="Docker" width="40px" src="https://img.icons8.com/fluency/48/000000/docker.png"/>  </a> 
 </p>
    
 
