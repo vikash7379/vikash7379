@@ -54,7 +54,8 @@ I'm a passionate Frontend Developer from Delhi. :)
 
 <br/>
 
-![Visitor Count](https://profile-counter.glitch.me/vikash7379/count.svg)
+ <!---![Visitor Count](https://profile-counter.glitch.me/vikash7379/count.svg)--->
+ ![](https://komarev.com/ghpvc/?username=vikash7379&color=brightgreen)
    ## Connect with me:
 <p align="left">
 
