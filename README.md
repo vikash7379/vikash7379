@@ -7,7 +7,7 @@ I'm a passionate Frontend Developer from Delhi. :)
 
 - 📫 How to reach me **jaichaurasia90@gmail.com**
    
-- 🌱 I’m currently learning **Next.js and UI/UX.**
+- 🌱 I’m currently learning **React Native.**
 
 - ⚡ Fun fact **I like Travelling and Music.**
 - 💬 Have a look at  [My Portfolio](https://vikashportfolio90.netlify.app/).
