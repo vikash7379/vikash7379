@@ -46,13 +46,7 @@ I'm a passionate Frontend Developer from Delhi. :)
 <a href="https://github.com/vikash7379/github-readme-stats"><img alt="vikash Chaurasia's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash7379&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
-<br/>
-<br/>
 
-[![Vikash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vikash7379&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<br/>
 
  <!---![Visitor Count](https://profile-counter.glitch.me/vikash7379/count.svg)--->
  ![](https://komarev.com/ghpvc/?username=vikash7379&color=brightgreen)
